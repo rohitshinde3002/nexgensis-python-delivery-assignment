@@ -1,6 +1,5 @@
 __pycache__/
 *.pyc
-report.json
 route_report.json
 agent_report.csv
 .venv/
