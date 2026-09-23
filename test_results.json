@@ -1,0 +1,72 @@
+[
+    {
+        "file": "test_case_1.json",
+        "packages": 12,
+        "delivered": 12,
+        "best_agent": "A1",
+        "valid": true
+    },
+    {
+        "file": "test_case_10.json",
+        "packages": 11,
+        "delivered": 11,
+        "best_agent": "A4",
+        "valid": true
+    },
+    {
+        "file": "test_case_2.json",
+        "packages": 10,
+        "delivered": 10,
+        "best_agent": "A1",
+        "valid": true
+    },
+    {
+        "file": "test_case_3.json",
+        "packages": 6,
+        "delivered": 6,
+        "best_agent": "A3",
+        "valid": true
+    },
+    {
+        "file": "test_case_4.json",
+        "packages": 12,
+        "delivered": 12,
+        "best_agent": "A3",
+        "valid": true
+    },
+    {
+        "file": "test_case_5.json",
+        "packages": 10,
+        "delivered": 10,
+        "best_agent": "A3",
+        "valid": true
+    },
+    {
+        "file": "test_case_6.json",
+        "packages": 9,
+        "delivered": 9,
+        "best_agent": "A3",
+        "valid": true
+    },
+    {
+        "file": "test_case_7.json",
+        "packages": 10,
+        "delivered": 10,
+        "best_agent": "A3",
+        "valid": true
+    },
+    {
+        "file": "test_case_8.json",
+        "packages": 11,
+        "delivered": 11,
+        "best_agent": "A1",
+        "valid": true
+    },
+    {
+        "file": "test_case_9.json",
+        "packages": 8,
+        "delivered": 8,
+        "best_agent": "A3",
+        "valid": true
+    }
+]
