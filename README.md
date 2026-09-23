@@ -1,6 +1,8 @@
 # FastBox Mystery Delivery System
 
-Python Developer Assignment — Nexgensis Technologies Pvt. Ltd.
+Prepared by Rohit Shinde
+
+Python Developer Assignment Round – Nexgensis Technologies Pvt. Ltd.
 
 ## 1. Overview
 
